@@ -1,0 +1,14 @@
+.tab {
+    display: inline-block;
+    padding: 25px;
+}
+
+
+.parent {
+  float: left; 
+}
+
+
+.navbar {
+   padding: 10px; 
+}
