@@ -14,11 +14,11 @@
   float: left; 
 }
 
-.container {
+.container-fluid {
   border-radius: 5px;
 
   padding: 20px; 
-  margin-top: 10px;
+  margin-top:3px;
   
 }
 
